@@ -1,2 +1,2 @@
-# odin-learning
-Part of The Odin Project course
+# Odin Learning Project
+1. Landing Page with Flex Layout
